@@ -1,4 +1,4 @@
-# Karthimuthu1187
+
   ![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)]
 <h1 align="center">Hi 👋, I'm Karthika Muthusamy</h1>
 <h3 align="center">I am an ISTQB Certified QA professional with over 6 years of experience in Software Testing. My expertise lies in manual testing and quality assurance, with a focus on various stages of testing, such as System testing, Regression testing, and UAT testing. I possess strong skills in writing clear and comprehensive test cases, along with a solid understanding of the Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC). Additionally, my proficiency in using testing tools like JIRA, Zephyr, ALM, and Test Director showcases my ability to efficiently manage testing processes and defect tracking.</h3>
